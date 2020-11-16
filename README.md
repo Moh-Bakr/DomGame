@@ -1,4 +1,4 @@
-# DOM_pig_game
+# DOM_pog_game
 
   GAME RULES:
 - The game has 2 players, playing in rounds
